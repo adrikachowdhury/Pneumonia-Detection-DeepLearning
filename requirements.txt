@@ -1,0 +1,8 @@
+Python 3.x
+TensorFlow
+Keras
+OpenCV
+NumPy
+Matplotlib
+scikit-learn
+OpenDatasets (for downloading the dataset from Kaggle)
