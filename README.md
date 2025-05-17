@@ -6,7 +6,7 @@ This project, developed for the **_Machine/Deep Learning Course_**, focuses on d
 - **Data Augmentation**: Techniques like rotation, shifting, shearing, zooming, and flipping are applied to enhance the training data.
 - **Model Architecture:** Uses VGG16 as the base model with custom classification layers for binary classification.
 - **Training:** The model is trained with data generators to handle large datasets efficiently.
-- **Evaluation:** Metrics such as accuracy and precision are used to evaluate model performance.
+- **Evaluation:** Metrics, primarily macro-average F1-Score, was used to evaluate model performance.
 
 ## Tools
 - Python 3.x, TensorFlow, Keras, OpenCV, NumPy, Matplotlib, scikit-learn, OpenDatasets (for downloading the dataset from Kaggle)
