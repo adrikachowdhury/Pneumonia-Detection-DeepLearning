@@ -1,4 +1,4 @@
-# Pneumonia Detection using Deep Learning
+# 🫁 Pneumonia Detection using Deep Learning
 
 This project, developed for the **_Machine/Deep Learning Course_**, focuses on detecting pneumonia from chest X-ray images using deep learning techniques. The model is built using transfer learning with the VGG16 architecture as the base model, fine-tuned for the specific task of pneumonia detection. The dataset used is the "Chest X-ray Pneumonia" dataset from Kaggle, which contains labeled images of _normal_ and _pneumonia-infected_ chest X-rays.
 
