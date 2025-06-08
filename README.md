@@ -31,6 +31,6 @@ Trained with `binary_crossentropy` loss and evaluated on accuracy, loss, and pre
 - Python 3.x, TensorFlow, Keras, OpenCV, NumPy, Matplotlib, scikit-learn, OpenDatasets (for downloading the dataset from Kaggle)
 
 ## Setup
-1. Download the repository from GitHub.
-2. Install dependencies available on requirements.txt
-3. Open PneumoniaDetection.ipynb in a notebook (Google Colab/Jupyter) and run all cells to train and evaluate the model through hyperparameter tuning.
+1. Download/clone the repository from GitHub.
+2. Install dependencies available on `requirements.txt`
+3. Open `PneumoniaDetection.ipynb` in a notebook (Google Colab/Jupyter) and run all cells to train and evaluate the model through hyperparameter tuning.
