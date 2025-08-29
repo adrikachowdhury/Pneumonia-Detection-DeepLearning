@@ -34,3 +34,8 @@ Trained with `binary_crossentropy` loss and evaluated on accuracy, loss, and pre
 1. Download/clone the repository from GitHub.
 2. Install dependencies available on `requirements.txt`
 3. Open `PneumoniaDetection.ipynb` in a notebook (Google Colab/Jupyter) and run all cells to train and evaluate the model through hyperparameter tuning.
+
+## Collaborators (Ascending Order)
+1. Adrika Chowdhury
+2. Tahiyat Islam
+3. Tustee Mazumdar
