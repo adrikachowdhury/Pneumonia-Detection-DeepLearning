@@ -27,15 +27,21 @@ The model leverages a pretrained VGG16 architecture followed by a custom classif
 
 Trained with `binary_crossentropy` loss and evaluated on accuracy, loss, and precision metrics.
 
-## Tools
+## 🛠️ Tools
 - Python 3.x, TensorFlow, Keras, OpenCV, NumPy, Matplotlib, scikit-learn, OpenDatasets (for downloading the dataset from Kaggle)
 
-## Setup
+## 🚀 Setup
 1. Download/clone the repository from GitHub.
 2. Install dependencies available on `requirements.txt`
 3. Open `PneumoniaDetection.ipynb` in a notebook (Google Colab/Jupyter) and run all cells to train and evaluate the model through hyperparameter tuning.
 
-## Collaborators (Ascending Order)
+## 🔮 Collaborators (Ascending Order)
 1. Adrika Chowdhury
 2. Tahiyat Islam
 3. Tustee Mazumdar
+
+---
+
+## 💫 Credits
+Feel free to explore the documentation, and please give **credit to the collaborators** when using content from this repo! 
+Many thanks!🙌
